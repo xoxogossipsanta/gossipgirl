@@ -1,7 +1,5 @@
 const images = [
-    'image1.jpg', // Replace with your image paths
-    'image2.jpg',
-    'image3.jpg'
+    'Screenshot 2024-12-26 at 5.44.23 PM.png'
 ];
 
 let currentIndex = 0;
