@@ -1,5 +1,5 @@
 const images = [
-    'Screenshot 2024-12-26 at 5.44.23 PM.png'
+    'images/Screenshot 2024-12-26 at 5.44.23 PM.png'
 ];
 
 let currentIndex = 0;
